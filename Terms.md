@@ -246,9 +246,9 @@ YOU AGREE TO RECEIVE TEXTS/CALLS FROM OR ON BEHALF OF SAGE AT THE PHONE NUMBER Y
 
 <p><strong>12.15 &nbsp;&nbsp;</strong> reproduce, distribute, publicly display, publicly perform, sell, trade, transfer, resell or exploit any portion of the Service, use of the Service, access to the Service granted under these Terms, or any Materials obtained through the Service, for any purpose other than expressly permitted by these Terms, including, by way of example and not limitation, by doing or engaging in any of the following without our express written consent:</p>  
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp; framing, embedding and/or passing off Materials obtained from the Service in such a manner as to present it as originating from a source other than the Service;</p>  
+<p>&nbsp;&nbsp;&nbsp;&nbsp;(a) &nbsp;&nbsp;&nbsp;&nbsp; framing, embedding and/or passing off Materials obtained from the Service in such a manner as to present it as originating from a source other than the Service;</p>  
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp; (b) &nbsp;&nbsp;&nbsp;&nbsp; altering or bypassing any software or other mechanisms through which the Service or any of its Materials are made available; or</p>  
+<p>&nbsp;&nbsp;&nbsp;&nbsp;(b) &nbsp;&nbsp;&nbsp;&nbsp; altering or bypassing any software or other mechanisms through which the Service or any of its Materials are made available; or</p>  
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;(c) &nbsp;&nbsp;&nbsp;&nbsp; using any trademarks, service marks, design marks, logos, photographs or other  Content belonging to us or obtained from the Service;</p>  
 

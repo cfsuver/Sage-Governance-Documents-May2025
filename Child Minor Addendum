@@ -8,7 +8,11 @@
 
 &nbsp;
 
-<p>Minor represents that it is at least 13 years old and has read and agrees to the Terms. Minor further agrees that its access to the Service is solely for the following limited purpose: [TEXT BOX DESCRIBING PURPOSE FOR ACCESS].</p>
+<p>Minor represents that it is at least 13 years old and has read and agrees to the Terms. Minor further agrees that its access to the Service is solely for the following limited purpose (DESCRIBE PURPOSE FOR ACCESS):</p>
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 <p>Parent represents that it is the parent or legal guardian of Minor. Parent hereby represents that it has read and agrees to the Terms on behalf of itself and Minor. Parent acknowledges that Minor’s permission to use the Service is conditional upon Parent’s own, additional agreement to the Terms.</p>
 
@@ -31,30 +35,46 @@
 <tr>
 <td style="text-align: left;"><p><strong>Minor</strong></p>
 <ul>
-<li><p><Name</strong></p></li>
-&nbsp;&nbsp;
-<li><p><strong>Signature</strong></p></li>
-&nbsp;&nbsp;&nbsp;
+<li><p><Name:</strong></p></li>
+&nbsp;
+&nbsp;
+<li><p><strong>Signature:</strong></p></li>
+&nbsp;
+&nbsp;
+&nbsp;
 <li><p><strong>Synapse User Name:</strong></p></li>
-&nbsp;&nbsp;&nbsp;
+&nbsp;
+&nbsp;
 <li><p><strong>Date:</strong></p></li>
-</ul>
+</ul></td>
 </tr>
 </tbody>
 </table>
 
-MINOR	PARENT
-Name: _________________________________
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: left;"><p><strong>Parent</strong></p>
+<ul>
+<li><p><Name:</strong></p></li>
+&nbsp;
+&nbsp;
+<li><p><strong>Signature:</strong></p></li>
+&nbsp;
+&nbsp;
+&nbsp;
+<li><p><strong>email:</strong></p></li>
+&nbsp;
+&nbsp;
+<li><p><strong>Date:</strong></p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
-Signature: ______________________________
-Synapse User Name:______________________
-Date: __________________________________
-	
 
-Name: _________________________________
-
-Signature: ______________________________
-Email: _________________________________
-Date: __________________________________
 
 

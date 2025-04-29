@@ -8,18 +8,20 @@
 
 &nbsp;
 
-<li>Minor represents that it is at least 13 years old and has read and agrees to the Terms. Minor further agrees that its access to the Service is solely for the following limited purpose: [TEXT BOX DESCRIBING PURPOSE FOR ACCESS].</li>
+<p>Minor represents that it is at least 13 years old and has read and agrees to the Terms. Minor further agrees that its access to the Service is solely for the following limited purpose: [TEXT BOX DESCRIBING PURPOSE FOR ACCESS].</p>
 
-<li>Parent represents that it is the parent or legal guardian of Minor. Parent hereby represents that it has read and agrees to the Terms on behalf of itself and Minor. Parent acknowledges that Minor’s permission to use the Service is conditional upon Parent’s own, additional agreement to the Terms.</li>
+<p>Parent represents that it is the parent or legal guardian of Minor. Parent hereby represents that it has read and agrees to the Terms on behalf of itself and Minor. Parent acknowledges that Minor’s permission to use the Service is conditional upon Parent’s own, additional agreement to the Terms.</p>
 
-<li>Parent represents that it will ensure Minor’s compliance with the Terms and this Addendum. Parent assumes all liability relating to or arising from Minor’s use of the Service. Parent further agrees to defend and indemnify the Sage Entities from and against every claim brought by a third party, and any related liability, damage, loss, and expense, including attorneys’ fees and costs, arising out of or connected with:</li>
+<p>Parent represents that it will ensure Minor’s compliance with the Terms and this Addendum. Parent assumes all liability relating to or arising from Minor’s use of the Service. Parent further agrees to defend and indemnify the Sage Entities from and against every claim brought by a third party, and any related liability, damage, loss, and expense, including attorneys’ fees and costs, arising out of or connected with:</p>
 
-(1) Minor’s unauthorized use of, or misuse of, the Service; 
-(2) Minor’s violation of any portion of the Terms, any representation, warranty, or agreement referenced in the Terms, or any applicable law or regulation; 
-(3) Minor’s violation of any third-party right, including any intellectual property right or publicity, confidentiality, privacy, or other property right; or 
-(4) any dispute or issue between Minor and any third party.
+<ol>
+<li><p>Minor’s unauthorized use of, or misuse of, the Service;</p></li> 
+<li><p>Minor’s violation of any portion of the Terms, any representation, warranty, or agreement referenced in the Terms, or any applicable law or regulation;</p></li>
+<li><p>Minor’s violation of any third-party right, including any intellectual property right or publicity, confidentiality, privacy, or other property right; or </p></li>
+<li><p>any dispute or issue between Minor and any third party.</p></li>
+</ol>
 
-<li>Sage reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by Minor (without limiting Parent’s indemnification obligations with respect to that matter), and in that case, Parent agrees to cooperate with Sage’s defense of those claims.</li>
+<p>Sage reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by Minor (without limiting Parent’s indemnification obligations with respect to that matter), and in that case, Parent agrees to cooperate with Sage’s defense of those claims.</p>
 
 MINOR	PARENT
 Name: _________________________________
@@ -27,7 +29,9 @@ Name: _________________________________
 Signature: ______________________________
 Synapse User Name:______________________
 Date: __________________________________
-	Name: _________________________________
+	
+
+Name: _________________________________
 
 Signature: ______________________________
 Email: _________________________________

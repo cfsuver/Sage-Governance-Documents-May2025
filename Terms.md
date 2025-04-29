@@ -36,12 +36,13 @@ Here is a summary of several key provisions of Sage Bionetworks’ Terms of Serv
 </ul>  
 
 <p><strong>When contributing User Content, or accessing advanced features you must: </strong></p>
-
-- Complete the Sage Bionetworks training to demonstrate understanding of rules for redistributing datasets, Software, or other Content, and interacting with cloud technologies, APIs, and de-identified information.
-- Remove direct HIPAA identifiers from Content you contribute, unless otherwise unambiguously authorized. See information about de-identification in accordance with the [HIPAA Privacy Rule](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html).
-- Ensure that data participants have consented to the sharing and use of their Data, where required by applicable law.
-- License Public Content under [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/) and open-source licenses like [Apache 2.0.](https://www.apache.org/licenses/LICENSE-2.0)
-- Grant Sage broader licenses for Private Content to operate services, improve products, and train AI models.
+<ul>
+<li><p>Complete the Sage Bionetworks training to demonstrate understanding of rules for redistributing datasets, Software, or other Content, and interacting with cloud technologies, APIs, and de-identified information.</p></li>
+<li><p>Remove direct HIPAA identifiers from Content you contribute, unless otherwise unambiguously authorized. See information about de-identification in accordance with the [HIPAA Privacy Rule](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html).</p></li>
+<li><p>Ensure that data participants have consented to the sharing and use of their Data, where required by applicable law.</p></li>
+<li><p>License Public Content under [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/) and open-source licenses like [Apache 2.0.](https://www.apache.org/licenses/LICENSE-2.0).</p></li>
+<li><p>Grant Sage broader licenses for Private Content to operate services, improve products, and train AI models.</p></li>
+</ul>
 
 <p><strong>We want you to be aware that:</strong></p>
 <ul>

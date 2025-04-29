@@ -1,7 +1,7 @@
 **<h1>Sage Bionetworks Terms of Service</h1>** 
 
 <!-- Enter Date -->
-<strong> Effective Date: FEB 15, 2025</strong> 
+<strong> Effective Date: JUN 1, 2025</strong> 
 
 <h2>Summary of Key Provisions</h2> 
 
@@ -48,7 +48,7 @@ Here is a summary of several key provisions of Sage Bionetworks’ Terms of Serv
 <li><p>We will remove Content if we deem it inappropriate and will cancel your account for violations, or prolonged inactivity.</p></li>
 <li><p>We respect the intellectual property rights, including copyrights, patents, trade secrets, and trademarks, of others, and ask you to do the same. You retain copyright in the content you post but grant licenses to Sage and other users.</p></li>
 <li><p>We have the right to use your Content to operate our services and develop new products.</p></li>
-<li><p>You must be 18 years or older to use our services.</p></li>
+<li><p>You must be at least 18 years old to use our services or you must obtain a parent/guardian authorization by completing a [Child Minor Addendum].</p></li>
 <li><p>We take no responsibility or liability for any Content that has been posted to our Services.</p></li>
 <li><p>You may cancel your account at any time.</p></li>  
 
@@ -103,9 +103,11 @@ If you intend to use the Service as a Sovereign Entity and have questions about 
 
 <li>
     <h3>&nbsp;&nbsp; Eligibility.</h3>
-<p>You must be at least 18 years old to use the Service. By agreeing to these Terms, you represent and warrant to us that: (a) you are at least 18 years old; (b) you are not suspended nor have you been removed from the Service; (c) you will not permit any other person, entity, organization, or company to access the Service through your account; and (d) your registration and your use of the Service is in compliance with any and all applicable laws and regulations. If you are an entity, organization, or company, the individual accepting these Terms on your behalf represents and warrants that they have authority to bind you to these Terms and you agree to be bound by these Terms.</p>
+<p>You must be at least 18 years old to use the Service without a parent/guardian authorization. By agreeing to these Terms, you or represent and warrant to us that: (a) you are at least 18 years old; (b) you are not suspended nor have you been removed from the Service; (c) you will not permit any other person, entity, organization, or company to access the Service through your account; and (d) your registration and your use of the Service is in compliance with any and all applicable laws and regulations. If you are an entity, organization, or company, the individual accepting these Terms on your behalf represents and warrants that they have the authority to bind you to these Terms and you agree to be bound by these Terms.</p>
+ 
+<p> If you are under 18 years old or are a minor in your jurisdiction, you must obtain your parent/guardian's authorization to use the Service. By completing the [Child Minor Addendum], your parent/guardian acknowledges that your permission to use the Service is conditional upon your parent/guardian's own agreement to these Terms </p>
 </li>  
-
+ 
 <li>
     <h3>&nbsp;&nbsp; Account Registration, Training Obligations, and Ongoing Use.</h3>  
 

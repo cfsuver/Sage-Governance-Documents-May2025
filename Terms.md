@@ -3,6 +3,9 @@
 <!-- Enter Date -->
 <strong> Effective Date: JUN 1, 2025</strong> 
 
+IMPORTANT: We've updated our Terms of Service with new provisions for Sovereign Entities and users under 18.
+
+
 <h2>Summary of Key Provisions</h2> 
 
 Here is a summary of several key provisions of Sage Bionetworks’ Terms of Service. Be certain to read the full Terms of Service in detail; in the event of any conflict or inconsistency between this summary and the full Terms of Service, the full Terms of Service will govern. You must accept these Terms of Service to contribute, access, and/or use the Sage Bionetworks platforms and other services. 

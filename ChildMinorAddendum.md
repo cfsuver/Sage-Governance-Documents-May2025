@@ -24,7 +24,7 @@
 <p><strong>Parent Signature</strong></p>
 <p>Name:</p>
 <p>Signature:</p>
-<p>email:</p>
+<p>Email:</p>
 <p>Date:</p>
 
 
